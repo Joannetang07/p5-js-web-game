@@ -1,7 +1,7 @@
-<p>This is a simple snack catching game created in <a href="https://p5js.org/">JavaScript P5 Library</a></p>
+<p>This is a simple snack catching game <meta charset="U+1F3AE"> created in <a href="https://p5js.org/">JavaScript P5 Library</a></p>
 
 <p>Players could move their mouse on canvas to catch the snack and record their scores. Feel free to download for play and recreation. </br>
-Please give a shoutout to <a href="https://www.instagram.com/joannetang07/?hl=en">Joanne Tang</a> on social to attribute.</p>
+and give a shoutout to <a href="https://www.instagram.com/joannetang07/?hl=en">Joanne Tang</a> on social to attribute.</p>
 
 <p>Audio credits to <a href="MixKit.co">MixKit.co</a>.</p>
 
